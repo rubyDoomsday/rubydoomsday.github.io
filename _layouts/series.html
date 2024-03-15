@@ -13,8 +13,8 @@
           {{ content }}
 
           <p class="blog-post-list">
-              {% assign _type = page.series_name | downcase %}
-              {% assign _posts = site.categories[_type] | reverse %}
+              {% assign _series_name = page.series_name | downcase %}
+              {% assign _posts = site.categories[_series_name] | reverse %}
               {% assign _chapter = 1 %}
 
               {% for post in _posts %}
