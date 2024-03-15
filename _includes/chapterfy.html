@@ -1,0 +1,35 @@
+<html>
+  {% assign subtitle = page.subtitle %}
+  {% assign post_list = site.posts | where: 'subtitle', subtitle %}
+
+  {% for post in post_list %}
+    {% if post.url == page.url %}
+      {% assign pOffset = forloop.index0 | minus: 1 %}
+      {% assign nOffset = pOffset | plus: 2 %}
+
+      {% if forloop.first == false %}
+        {% assign next_post = post_list[pOffset] %}
+      {% endif %}
+
+      {% if forloop.last == false %}
+        {% assign previous_post = post_list[nOffset] %}
+      {% endif %}
+
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  <div>
+    {% if previous_post != null%}
+      <p style="float:left;">
+        <a class="page-link" href="{{ previous_post.url }}"><< {{ previous_post.title }} </a>
+      </p>
+    {% endif %}
+
+  {% if next_post != null%}
+    <p style="float:right;">
+      <a href="{{ next_post.url }}">{{ next_post.title }} >></a>
+    </p>
+  {% endif %}
+  </div>
+</html>
