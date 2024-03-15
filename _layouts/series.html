@@ -13,17 +13,18 @@
           {{ content }}
 
           <p class="blog-post-list">
-              {% assign _type = page.title | downcase %}
-              {% assign _posts = site.categories[_type] | slice: 0, 10 %}
+              {% assign _type = page.series_name | downcase %}
+              {% assign _posts = site.categories[_type] | reverse %}
+              {% assign _chapter = 1 %}
 
               {% for post in _posts %}
                 {% if post.draft != true %}
-                  <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
                   <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
-                    {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }}{% endif %}
+                    {{ _chapter }} - {{ post.title }}
                   </a>
                 {% endif %}
                 </br>
+                {% assign _chapter = _chapter | plus: 1 %}
               {% endfor %}
           </p>
 

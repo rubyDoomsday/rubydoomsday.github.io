@@ -26,10 +26,17 @@
       </p>
     {% endif %}
 
-  {% if next_post != null%}
-    <p style="float:right;">
-      <a href="{{ next_post.url }}">{{ next_post.title }} >></a>
-    </p>
-  {% endif %}
+    {% if next_post != null%}
+      <p style="float:right;">
+        <a href="{{ next_post.url }}"> {{ next_post.title }} >></a>
+      </p>
+    {% endif %}
   </div>
+
+  <div>
+    <p style="text-align:center;">
+    <a class="page-link" href="../../../series.html">Table of Contents</a>
+    </p>
+  </div>
+
 </html>

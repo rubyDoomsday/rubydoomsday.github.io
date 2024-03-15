@@ -3,6 +3,8 @@ layout: home
 profile_picture:
   src: /assets/img/profile-pic.png
   alt: website picture
+pagination:
+  enabled: true
 ---
 
 <h1>
@@ -14,3 +16,4 @@ An industrious software developer and tenacious data engineer with a no-fear app
 well architected solutions through a documentation first approach and a penchant for leading remote
 teams to deliver. I also travel.
 </p>
+

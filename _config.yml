@@ -39,7 +39,7 @@ header:
     - name: Play
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: creative@rebeccachapin.com
