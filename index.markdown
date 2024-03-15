@@ -3,8 +3,6 @@ layout: home
 profile_picture:
   src: /assets/img/profile-pic.png
   alt: website picture
-pagination:
-  enabled: true
 ---
 
 <h1>
