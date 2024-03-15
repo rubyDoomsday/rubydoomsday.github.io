@@ -10,7 +10,7 @@ profile_picture:
 </h1>
 
 <p>
-An industrious software developer and tenacious data engineer with a no-fear approach to developing
-well architected solutions through a documentation first approach and a penchant for leading remote
+A dynamic software developer and tenacious data engineer with a no-fear approach to developing
+well-architected solutions through a documentation-first approach and a penchant for leading remote
 teams to deliver. I also travel.
 </p>

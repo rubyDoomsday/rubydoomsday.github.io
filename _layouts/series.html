@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="blog">
+          <h1 class="page-heading">{{ page.title }}</h1>
+          {{ content }}
+
+          <p class="blog-post-list">
+              {% assign _series_name = page.series_name | downcase %}
+              {% assign _posts = site.categories[_series_name] | reverse %}
+              {% assign _chapter = 1 %}
+
+              {% for post in _posts %}
+                {% if post.draft != true %}
+                  <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
+                    {{ _chapter }} - {{ post.title }}
+                  </a>
+                {% endif %}
+                </br>
+                {% assign _chapter = _chapter | plus: 1 %}
+              {% endfor %}
+          </p>
+
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>
