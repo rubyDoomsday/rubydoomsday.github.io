@@ -10,4 +10,6 @@
   object-fit: cover;
   width: 100px;
   height: 100px;
+  border: 1px solid $grey-color-light;
+  box-shadow: 0 2px 4px $grey-color-light;
 }

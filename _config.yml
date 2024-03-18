@@ -35,8 +35,10 @@ header:
   pages:
     - name: Welcome
       slug: /
-    - name: Work
-    - name: Play
+    - name: Do What You Like
+      slug: /play
+    - name: Like What You Do
+      slug: /work
 
 footer:
   show_powered_by: true

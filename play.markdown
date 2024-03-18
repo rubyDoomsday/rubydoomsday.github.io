@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Play
+title: Do What You Like
 slug: /play
 features:
   - title: Misfit On The Trail
