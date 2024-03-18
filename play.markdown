@@ -18,6 +18,6 @@ inspired by the world around me. Let me tell you about it...
 
 ## Previous Collections
 
-{% include featured.html %}
+{% include features.html %}
 
 ## Recent Stories

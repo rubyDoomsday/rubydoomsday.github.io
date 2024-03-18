@@ -18,6 +18,6 @@ teams to create brilliant solutions. Let's talk about it...
 
 ## Areas of Expertise
 
-{% include featured.html %}
+{% include features.html %}
 
 ## Recent Articles
