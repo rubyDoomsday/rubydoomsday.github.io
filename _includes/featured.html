@@ -1,0 +1,17 @@
+{% for item in page.features %}
+  <div class="work-item">
+    <div style="float:left;">
+      <img
+        src="{{ item.image.src | absolute_url }}"
+        alt="{{ item.image.alt }}"
+        class="work-bubble"
+      />
+    </div>
+
+    <span class="work-text">
+      <a href="{{ item.title | downcase | split: " " | join: "_" | append: "/series.html" | prepend: site.baseurl }}">{{ item.title }}</a>
+      &mdash;
+      {{ item.description }}
+    </span>
+  </div>
+{% endfor %}
