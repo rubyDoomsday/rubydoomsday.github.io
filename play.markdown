@@ -4,7 +4,7 @@ title: Do What You Love
 slug: /play
 features:
   - title: Misfit On The Trail
-    url: misfit_on_the_trail/contents.html
+    url: play/misfit_on_the_trail/contents.html
     image: /assets/img_misfit_series/cover.jpg
     description: An anthology of short stories cataloging my thru-hike of the Appalachian Trail in 2022. The stories where a way to share my
                  journey with others through the art of storytelling.
