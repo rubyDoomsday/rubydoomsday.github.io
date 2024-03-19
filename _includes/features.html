@@ -1,17 +1,22 @@
 {% for item in page.features %}
+  {% assign url = item.url | prepend: site.baseurl %}
+
   <div class="feature-item">
     <div style="float:left;">
-      <img
-        src="{{ item.image.src | absolute_url }}"
-        alt="{{ item.image.alt }}"
-        class="img--circle"
-      />
+      <a href="{{ url }}">
+        <img
+          src="{{ item.image | absolute_url }}"
+          alt="{{ item.title || item.image.alt }}"
+          class="img--circle"
+        />
+      </a>
     </div>
 
     <span class="feature-text">
-      <a href="{{ item.title | downcase | split: " " | join: "_" | append: "/series.html" | prepend: site.baseurl }}">{{ item.title }}</a>
+      <a href="{{ url }}">{{ item.title }}</a>
       &mdash;
       {{ item.description }}
     </span>
   </div>
+
 {% endfor %}

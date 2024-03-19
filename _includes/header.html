@@ -23,3 +23,10 @@
     </nav>
   </div>
 </header>
+
+{% if page.cover_image %}
+  <div class="page-cover" style="background: url({{ page.cover_image | absolute_url }}) no-repeat top center fixed; background-size: cover;">
+    <h1 class="page-cover-heading">{{ page.title }}</h1>
+  </div>
+{% endif %}
+

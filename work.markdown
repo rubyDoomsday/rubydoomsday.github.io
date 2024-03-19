@@ -1,13 +1,11 @@
 ---
 layout: blog
-title: Like What You Do
+title: Love What You Do
 slug: /work
 features:
   - title: Data Engineering
-    url: data_engineering/series.html
-    image:
-      src: /assets/img/data-engineering.png
-      alt: Data Engineering
+    url: data_engineering/contents.html
+    image: /assets/img/data-engineering.png
     description: "A collection of articles and guides on data engineering, data architecutre and data governance in general."
 ---
 

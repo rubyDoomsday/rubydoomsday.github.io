@@ -22,25 +22,21 @@
 plugins:
   - jekyll-feed
 
-
 title: Rebecca Chapin
 email: creative[at]rebeccachapin.com
 description: >- # this means to ignore newlines until "baseurl:"
   a working title
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 header:
   pages:
-    - name: Welcome
+    - name: Introductions
       slug: /
-    - name: Do What You Like
+    - name: Do what you love
       slug: /play
-    - name: Like What You Do
+    - name: Love what you do
       slug: /work
 
 footer:
-  show_powered_by: true
   contact:
     - name: Email
       value: creative[at]rebeccachapin.com
@@ -50,16 +46,10 @@ footer:
     # - name: Twitter
     #   link: http://twitter.com/YourTwitterUsername
     #   username: "@YourTwitterUsername"
-    # - name: Facebook
-    #   link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
       link: https://www.linkedin.com/in/rebeccachapin/
     - name: GitHub
       link: http://github.com/rubyDoomsday
-    # - name: Dribbble
-    #   link: https://dribbble.com/YourDribbbleUsername
-    # - name: Weibo
-    #   link: http://weibo.com/u/YourWeiboUsername
     - name: RSS
       link: /feed.xml
 
