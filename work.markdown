@@ -6,7 +6,7 @@ features:
   - title: Data Engineering
     url: /work/data_engineering/contents.html
     image: /assets/img/data-engineering.png
-    description: "A collection of articles and guides on data engineering, data architecutre and data governance in general."
+    description: "I approach data engineering through a software engineering lense. This collection of articles and guides on data engineering, architecutre and governance are my take on a composable modern data platform."
 ---
 
 There is more to software than a well crafted algorithm. Simple effective code

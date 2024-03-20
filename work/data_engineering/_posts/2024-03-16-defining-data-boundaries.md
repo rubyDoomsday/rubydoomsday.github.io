@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Defining Data Boundaries
+title:  Defining Data APIs
 subtitle: Data Engineering
 date:   2024-03-16
 tags:   data architecture design documentation
@@ -8,11 +8,13 @@ tags:   data architecture design documentation
 
 # Purpose
 
-The traditional boundaries between data engineering and software engineering have become increasingly blurred. It's now crucial to view the
-data warehouse and its surrounding infrastructure as a unified, deployable platform rather than disparate systems. However, in doing so this
-greatly increases the complexity in development of new and updating existing data assets. This is a similar problem encountered in the
-[majestic monolith](https://robertorodes.com/the-blog/the-majestic-monolith-demystified/) software architecture. In this post, we'll explore
-how to define the data warehouse and its boundaries to better support the data engineering process.
+The traditional boundaries between data engineering and software engineering have become increasingly blurred. Integrating data in the past
+required bespoke API integration with transformation logic before it even landed inside a companies ecosystem. Today we have a plethroa of
+cloud infrastructure and resources to manage data in a far more composable way. It's now crucial to view the data warehouse and its
+surrounding infrastructure as a unified, deployable platform rather than disparate systems. However, in doing so this greatly increases the
+complexity in development of new and updating existing assets. This is a similar problem encountered in the [majestic
+monolith](https://robertorodes.com/the-blog/the-majestic-monolith-demystified/) software architecture. In this post, we'll explore how to
+define interfaces within the data warehouse to better support the data engineering process.
 
 ## Background
 
@@ -30,9 +32,9 @@ terminology. To ensure clarity, we'll use the following glossary of terms throug
 {: .table__header-row}
 | Term           | Definition                                                                                                   |
 | ---            | ---                                                                                                          |
-| Data Lake      | A raw unstructured data store, often a copy of a data source in Snowflake                                    |
-| Data Source    | An internal or external production data source                                                               |
-| Integration    | A service that ingests data (ie Fivetran, Snowpipe, etc)                                                     |
+| Data Lake      | A raw unstructured data store, often a copy of a data source in Snowflake or Files in S3                     |
+| Data Source    | An internal or external production application data base or API                                              |
+| Integration    | A service that ingests data (ie Fivetran, Snowpipe, Lambda etc)                                              |
 | Data Warehouse | A normalized (or canonical) data store, typically a database/schema in Snowflake                             |
 | Staged Data    | Not to be confused with a staging environment, this is canonical data                                        |
 | Exposure       | A production data resource accessible by users and/or downstream systems or processes                        |
@@ -41,8 +43,8 @@ terminology. To ensure clarity, we'll use the following glossary of terms throug
 ## Medallion Data Platform
 
 The concept of [medallion data](https://www.databricks.com/glossary/medallion-architecture) is not new. However, its practical
-implementation can be ambiguous. This article presents an interpretation of how to effectively implement medallion data concepts within a
-data engineering team, outlining the tiers of data coverage. While not definitive, this approach has proven effective in practice.
+implementation can be ambiguous. The following sections present an interpretation of how to effectively implement medallion data concepts
+within a data engineering team, outlining the tiers of data coverage. While not definitive, this approach has proven effective in practice.
 
 ### Tiers of Data
 
