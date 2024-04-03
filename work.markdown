@@ -17,6 +17,7 @@ same principles to software engineering and system architecture. This collection
 There is more to software than a well crafted algorithm. Simple effective code
 starts with understanding the problem, and communicating the solution to empower
 teams to create brilliant solutions. Let's talk about it...
+<!--more-->
 <br />
 
 ## Areas of Expertise

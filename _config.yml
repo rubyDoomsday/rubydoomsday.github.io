@@ -26,6 +26,8 @@ title: Rebecca Chapin
 email: creative[at]rebeccachapin.com
 description: >- # this means to ignore newlines until "baseurl:"
   a working title
+page_excerpts: true
+excerpt_separator: <!--more-->
 
 header:
   pages:

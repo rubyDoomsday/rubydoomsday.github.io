@@ -41,7 +41,17 @@
 
 {% if page.cover_image %}
   <div class="page-cover" style="background: url({{ page.cover_image | absolute_url }}) no-repeat top center fixed; background-size: cover;">
-    <h1 class="page-cover-heading">{{ page.title }}</h1>
+    <div class="page-cover-text">
+      <h1 class="page-cover-heading">{{ page.title }}</h1>
+    </div>
+  </div>
+  <div class="mobile-page-cover">
+    <img
+      src="{{ page.cover_image | absolute_url }}"
+      alt="{{ page.cover_image_alt }}"
+      class="mobile-page-cover-image"
+    />
+    <h1 class="mobile-page-cover-heading">{{ page.title }}</h1>
   </div>
 {% endif %}
 

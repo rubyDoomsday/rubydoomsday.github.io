@@ -241,6 +241,57 @@ nav {
 }
 
 /**
+ * Page cover
+ */
+.page-cover {
+  height: 600px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+
+  @include media-query($on-mobile) {
+    display: none;
+  }
+}
+
+.mobile-page-cover {
+  display: none;
+
+  @include media-query($on-mobile) {
+    display: block;
+  }
+}
+
+.page-cover-text {
+  position: relative;
+  height: 600px;
+  width: 100%;
+}
+
+.mobile-page-cover-heading,
+.page-cover-heading {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  right: 0;
+  height: 100px;
+  background-color: $grey-color-transparent;
+  color: $grey-color-light;
+  text-align: center;
+  font-size: 50px;
+
+  @include media-query($on-mobile) {
+    color: $grey-color-dark;
+    background-color: white;
+    position: relative;
+    height: auto;
+    bottom: 0;
+  }
+}
+/**
  * Page content
  */
 .page-content {
