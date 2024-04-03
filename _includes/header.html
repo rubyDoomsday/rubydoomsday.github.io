@@ -1,28 +1,43 @@
+<div class="wrapper">
 <header class="site-header">
-  <div class="wrapper">
-    <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
-      {{ site.title }}
-    </a>
 
-    <nav class="site-nav">
-      <a href="#" class="menu-icon"></a>
-
-      <div class="menu">
-        {% for page in site.header.pages %}
-          {% if page.slug and page.slug != "" and page.slug != nil %}
-            {% assign page_link = page.slug %}
-          {% else %}
-            {% assign page_link = "/" | append: page.name | downcase %}
-          {% endif %}
-          {% assign page_link = page_link | absolute_url %}
-          <a class="page-link" href="{{ page_link }}">
-            {{ page.name }}
+    <nav>
+        <div class="nav-wrapper">
+          <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
+            {{ site.title }}
           </a>
-        {% endfor %}
-      </div>
+
+          <input type="checkbox" id="main-nav" class="main-nav">
+
+          <label for="main-nav" id="toggle-menu">
+            <div class="hamburger">
+              <span class="bar bar1"></span>
+              <span class="bar bar2"></span>
+              <span class="bar bar3"></span>
+              <span class="bar bar4"></span>
+            </div>
+          </label>
+
+          <ul class="first-level-nav">
+            {% for page in site.header.pages %}
+              {% if page.slug and page.slug != "" and page.slug != nil %}
+                {% assign page_link = page.slug %}
+              {% else %}
+                {% assign page_link = "/" | append: page.name | downcase %}
+              {% endif %}
+              {% assign page_link = page_link | absolute_url %}
+              <li>
+                <a href="{{ page_link }}">{{ page.name }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
     </nav>
-  </div>
+
 </header>
+
+</div>
+
 
 {% if page.cover_image %}
   <div class="page-cover" style="background: url({{ page.cover_image | absolute_url }}) no-repeat top center fixed; background-size: cover;">

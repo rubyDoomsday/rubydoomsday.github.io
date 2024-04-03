@@ -29,7 +29,7 @@ $table-header-border-color: $grey-color-dark !default;
 $table-border-color: $grey-color-dark !default;
 $table-zebra-color: $grey-color-light !default;
 
-$on-mobile: 500px;
+$on-mobile: 600px;
 $on-laptop: 800px;
 
 @mixin media-query($device) {
