@@ -11,7 +11,7 @@ features:
 ---
 
 I spend months on the road living in my trusty sprinter Heyvan. I am on a journey to be
-inspired by the world around me. Let me tell you about it...
+inspired by the world around me. Experience is my teacher and I love to learn. Let me tell you about it...
 <br />
 
 ## Previous Collections

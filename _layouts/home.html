@@ -7,6 +7,11 @@
 
     <div class="page-content">
       <div class="wrapper">
+
+        {% if page.cover_image == null %}
+          <h1 class="page-heading">{{ page.title }}</h1>
+        {% endif %}
+
         <div class="home">
           <img
             src="{{ page.profile_picture.src | absolute_url }}"
