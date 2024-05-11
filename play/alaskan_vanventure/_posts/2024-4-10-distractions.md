@@ -6,81 +6,42 @@ date: 2024-04-10
 tags: vanflife nomad adventure travel
 ---
 
-The road less traveled is not often a direct route. Sure, there are featureless highways that scribe straight lines between major cities and
-make ones travels fast and direct. Global positioning systems will walk you step by step and turn by turn to expedite your drive from place
-to place. However, life as a nomad does not often come with the requirements and stressors of vacation travel. Our heroes are not burdened
-by long weekends and PTO requests to make the most of their limited time on route. No. To a nomad everywhere is their backyard. All
-attractions and temptations that draw the planted folks out of their routines and across great distances are just around the bend for
-wandering types. As such the side quest is a first class citizen and since the night our two heroes set their compasses to the raw
-wilderness of Alaska the casual observer would have seen no progress in that direction. To the untrained eye, they had closed less than a
-mile towards their grand adventure. Never the less, timing is everything and when opportunity presents itself once must sieze it!
+The road less traveled is not a straightforward path. Sure, there are featureless highways that scribe straight lines between major cities and make one travel fast and direct. Global positioning systems will walk you step by step and turn by turn to expedite your route from place to place. However, life as a nomad does not often beholden to the structured itineraries of vacationing suburbanites. Our heroes are not burdened with tabulating long weekends or PTO requests to make the most of limited time on and maximize impact. No. To a nomad everywhere is their backyard. All attractions and temptations that draw the planted folks out of their routines and across great distances are just around the bend for the wanderer. Unburdended by these things every corner has the potential for adventure. As such, since the night our two heroes set their compasses to the raw wilderness of Alaska the casual observer would have seen no progress in that direction. To the untrained eye, they had closed less than a mile towards their grand adventure. Nevertheless, timing is everything. When an opportunity presents itself one must seize it! Even if that means making a U-turn!
 
-"There is a solar eclipse happening right around the corner from us in 3 weeks" said this one.
+"There is a solar eclipse happening right around the corner from us in three weeks," said this one.
 
-"My friend family are all flying to Dallas for the eclipse" said that one "I would love to see them!"
+"My friend-family are all flying to Dallas to see the eclipse," that one noted "I would love to see them!"
 
 "How does one pass the time?" asked this one.
 
-"Turn here!" shouted that one.
+"Turn here!" exclaimed that one without a moment's hesitation.
 
-So the wind blew, and their coach veered southward to begin the side quest to share totality with familiar faces in an unfamiliar town.
+And just like that, the wind blew, and their journey veered southward marking the beginning of a side quest to share totality with familiar faces in an unfamiliar town.
 
-The weeks passed by quickly exploring the famous cites of the great state of Texas. San Antonio is home to the world famous Alamo as many
-know but these two misfits quickly discovered the _El Camino de San Antonio_ a trail connecting five Spanish mission still in operation. The
-kilometers count as part of the famous pilgrimaged path know to the world as the Camino de Santiago or simply _El Camino_. This one was excited. That one was skeptical. In
-either case paths are made for walking and that is just what they do.
+The weeks passed swiftly as they explored the famed cities of the great state of Texas. San Antonio is home to the world-famous Alamo as many know, but held little allure for these two misfits. Instead the El Camino de San Antonio - a trail connecting five Spanish missions -
+captivated their attention. The kilometers count as part of the famous pilgrimage path known to the world as the Camino de Santiago or simply El Camino. This one was excited. That one was skeptical. In either case, paths are made for walking and that’s just what these two did.
 
-These missions don't carry the notoriety of the Alamo, but what they lack in fame they more than make up for in intimiacy and experience.
-While The Alamo sees more that 2.5 million visitors a year, the missions along the Camino de San Antonio receive around 250,000. As a guest
-you can explore the grounds and visit the churches, learn about the history and wander the halls of many of their buildings. This one, loved
-the beautiful light playing off the stucco and stone surfaces. Trees casting shadows across the ancient surfaces danced in the wind blowing
-across the green courtyards of the past. That one, learned of the areas history and significance of the space. She imagined the lives of the
-people long before her. While the self imposed poverty of the monks that inhabited the missions struck a chord with this one. Longing for a
-simpler existence she empathized with relinquishing her earthly possessions and living by the land and charity of the community. They
-collected their kilometers and marked it as a head start to a future adventure of one day hiking the entire El Camino.
+These missions don't carry the notoriety of the Alamo, but our heroes were enraptured by the intimacy and history of the missions. While The Alamo sees more than 2.5 million visitors annually, the missions along the Camino de San Antonio receive around 250,000. As a guest, you can explore the grounds, visit the churches, learn about the history, and wander the halls of many of their buildings. This one loved the beautiful light playing off the stucco and stone surfaces. Trees casting shadows across the ancient surfaces danced along with the wind blowing across the green courtyards of the past. A stark contrast to the Alamo's downtown location. That one, learned of the area's history and the significance of the space. She imagined the lives of the people long before her. The self-imposed poverty of the monks who inhabited
+the missions struck a chord with this one. Longing for a simpler existence she empathized with relinquishing her earthly possessions and living by the land and charity of the community. They collected their kilometers and marked it as a head start for a future adventure of someday hiking the entire El Camino.
 
-Departing the spiritual paths of San Antonio, they next landed in weird streets of Austin, Texas. That one discovered a concert event like
-no other taking place on the very week they were in town; _Harry Potter: Live in Concert_! The two travelers took this opportunity to
-indulge in a day of makeovers, dined over delicious cuisine then delighted in the simple and silly extravagance of one of that one's
-favorite movies accompanied by a live orchestra. Sometimes it is nice to feel fabulous and do ridiculous things. Austin is home to famous
-restaurants and the popular "_Bat Bridge_" which they cycled their bikes to and fro, here and there enjoying all the amenties of the
-creative city.
+Departing the spiritual paths of San Antonio, they arrived in the weird streets of Austin, Texas a city of creativity and cuisine. Amidst cycling trips to the famous "Bat Bridge" and indulging in local delicacies, they stumbled upon a unique event: Harry Potter: Live in Concert! Embracing the opportunity for a day of whimsy, they indulged in a day of makeovers, transforming into their best selves to delight in the contrasting extravagance of a movie accompanied by a live orchestra. Sometimes it is nice to feel fabulous and do ridiculous things she remarked as they laid their heads down to sleep. That one agreed.
 
-With Austin in their taillights, the final destination laid ahead; Dallas. However, Dallas was less the destination and more the backdrop to
-the main event in the form of a total eclipse of the sun. The group of friends gathered in the comfort of the backyard of a relatives home,
-dawned their matching shirts, and pulled up a chair to watch as the moon and sun aligned to block out the daylight for an incredible 7
-minutes on the afternoon of April 8, 2024.
+With Austin in their rearview mirror, they journeyed onward to Dallas where the total eclipse awaited. The anticipation was palpable as they joined friends in a backyard gathering, awaiting the celestial spectacle. The group dawned on their matching shirts and pulled up a chair to watch as the moon and sun aligned to block out the daylight for an incredible 7 minutes on the afternoon of April 8, 2024. Though clouds threatened to obscure their view, hope remained high.
 
-The anticipation was paramount, having built up over the course of many weeks of preparation and discussion.
+"I've never seen a total eclipse," said this one.
 
-"I've never seen a total eclipse" said this one.
+"Neither have I," that one responded.
 
-"Neither have I" said that one.
+Along with so many others that day, the group gathered outside and dawning their shades gazed up to the sky to see a grey cloudy blanket blocking out the sun's rays. The fear of missing this once (maybe twice) in a lifetime event was palpable. The group tried to keep their spirits up but the prospect of a clear unobstructed viewing was low. Nevertheless, they prepared their cameras, found their seats, and counted the minutes to the main event. As the occurrence grew closer the clouds did not let up, and although they got glimpses of the crescented sun here and there, it continued to play hide and seek with its audience. This one's heart sank, but that one had not given up hope.
 
-Along with so many others that day, the group gathered outside and dawning their shades gazed up to the sky to see a grey cloudy blanket
-blocking out the suns rays. The disappointment at the thought of missing this once (maybe twice) in a lifetime event was palpable. The group
-tried to keep their spirits up but the prospect of a clear unobstructed viewing was low. Never the less they prepared their cameras and
-found their seats and counted down the minutes. As the occurrence grew closer the clouds did not let up, and althought they got glimpses of
-the crescented sun, it continued to play hide and seek with its observers. This one's heart sank, but that one had not given up hope.
+What happened next, dear reader, I will leave it to you to decide for yourself, but for those gathered in that strange land, hoping to see that unique phenomenon, it was nothing short of magic. That one stared at those clouds with intention. She dug deep into her heart finding a
+power in herself that she did not know. She planted her feet hard against the ground standing tall and summoned an energy that even she did not believe she possessed. Encircled by her community, gazing at the darkened sky hiding obstructing their view, she muttered a prayer, or
+perhaps it was a wish, while others recall it was a spell.
 
-What happened next, dear reader, I will let you decide, but for the group of friends gathered in a strange land, hoping to see a strange
-phenomena, it was nothing short of magic.
+"Mother goddess hear my plea, part the clouds so we can see."
 
-That one stared up at those clouds covering our feature presentation and dug deep into her heart. She planted her feet hard against the
-ground and summoned an energy that even she did not believe she possessed. Encircled by community, gazing at the darkened sky hiding our
-view, she muttered a spell "Mother goddess hear my plea, part the clouds so we can see."
+Nothing happened at first or perhaps none of them noticed, who can say. However, through their special eclipse-watching glasses, they began to see a crescent. It was obstructed at first, but gradually became a clear solid shape. Had they simply taken off their shades they would
+have seen it right away, but behind their filters, they were captivated by the singular bright light taking shape. Moments before totality, the sky cleared, and they beheld the breathtaking sight: a blackened sun encircled by a halo of light. Stars appeared, shadows vanished, and time seemed to stand still in the cosmic shadow. They removed their glasses to discover a clear, albeit darkened sky. Totality engulfed them and this one began to cry.
 
-Nothing happened at first or perhaps none of them noticed, who can say. However, as the group watched through their special glasses that let
-only the blinding light of the sun come through they began to see a circle. Obstructed at first, but quickly taking shape. Had they simply
-taken off their shades they would have see it happen, but behind their filters and distracted by the bright light it was lost on them. The
-clouds dissipated, and vanished moments before totality. Then, just as the moon completely blacked out the sun and the halo of rays beamed
-out, they removed their glasses to discover a clear blue, albeit darkened sky. Totality engulfed them and this one began to cry.
-
-It. Was. Surreal.
-
-Nothing could have prepared them for the experience at hand. Stars became visible. Shadows, erased. It was dusk but also day, and the sky!
-The deep black circle with its white aurora shining like a black hole in the clear sky was unlike anything either of them had ever
-witnessed. In moments like this, it is easy to let the trials and tribulations of our lives feel both insignificant and magnificent all at
-once. You can feel how so microscopically small you are to an indifferent universe of heavenly bodies so incomprehensibly large it is often
-easier to ignore them, than to try and understand. However, here in the all encompassing shadow of a celestial object hovering
-between the Earth and Sun you can _feel_ it all. The Earth, the moon and the Sun... and you.
+Nothing could have prepared them for the experience at hand. The deep black circle with its white aurora shining like a black hole in the heavens was unlike anything any of them had ever witnessed before. In that fleeting moment, the trials and tribulations of their lives felt both insignificant and magnificent. In the all-encompassing shadow of a celestial object hovering between the Earth and the Sun, they were humbled by their minuscule presence in an indifferent universe of incomprehensible vastness, yet they felt deeply connected to it all — the
+Earth, the moon, the Sun, and you.
