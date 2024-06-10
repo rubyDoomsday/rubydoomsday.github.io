@@ -3,7 +3,7 @@ layout: post
 title: "Moondance"
 subtitle: "An Alaskan Vanventure"
 date: 2024-04-10
-tags: vanflife nomad adventure travel
+tags: vanlife nomad adventure travel
 ---
 
 ![bell tower](/assets/img/alaska/bell-tower.jpeg)
