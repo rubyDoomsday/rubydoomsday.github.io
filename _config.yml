@@ -39,11 +39,6 @@ header:
       slug: /work
 
 footer:
-  contact:
-    - name: Email
-      value: creative[at]rebeccachapin.com
-      link: mailto:creative@rebeccachapin.com
-
   follow:
     # - name: Twitter
     #   link: http://twitter.com/YourTwitterUsername
@@ -52,8 +47,8 @@ footer:
       link: https://www.linkedin.com/in/rebeccachapin/
     - name: GitHub
       link: http://github.com/rubyDoomsday
-    - name: RSS
-      link: /feed.xml
+    - name: Source Code
+      link: https://github.com/rubyDoomsday/rubydoomsday.github.io
 
 
 # Exclude from processing.
