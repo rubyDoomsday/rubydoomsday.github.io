@@ -42,7 +42,7 @@ inevitable. They secured the rack with rope, adjusted to a more cautious pace, a
 setting off on the even bumpier road ahead. Unfortunately, though the universe had spoken to them, they failed to heed the warning —if they
 had, they might have reconsidered their next destination.
 
-![mccarthy](/assets/img/alaska/mccarthy.jpg)
+![mccarthy](/assets/img/alaska/mccarthy.JPG)
 
 After departing their camp the intrepid travelers winded their way over a few more frost heaves albeit at a bit slower pace and arrived at a
 crossroads. To the left, is the remote town of McCarthy, while the right leads to the modern city of Anchorage. Emboldened by the success of
