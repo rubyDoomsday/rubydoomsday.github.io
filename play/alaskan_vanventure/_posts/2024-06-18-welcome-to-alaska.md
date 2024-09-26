@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome To Alaska"
 subtitle: "An Alaskan Vanventure"
-date: 2024-07-10
-tags: vanlife nomad adventure travel alaska
+date: 2024-06-18
+tags: vanlife nomad adventure travel alaska juneau
 ---
 
 

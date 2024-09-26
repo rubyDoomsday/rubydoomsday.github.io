@@ -2,8 +2,8 @@
 layout: post
 title: "Bumpy Roads"
 subtitle: "An Alaskan Vanventure"
-date: 2024-08-10
-tags: vanlife nomad adventure travel alaska
+date: 2024-07-04
+tags: vanlife nomad adventure travel alaska mccarthy
 ---
 
 ![haines](/assets/img/alaska/haines.jpg)
