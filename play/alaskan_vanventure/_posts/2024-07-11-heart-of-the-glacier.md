@@ -48,6 +48,8 @@ They began their descent down the other side of the pass. Deftly navigating more
 3,000-foot elevation into a pine forest. Eventually, they arrived at their hostel, where the evening light still lingered despite the late
 hour. Tomorrow held even more promise, and they needed to rest for the adventure ahead.
 
+![matanuska](/assets/img/alaska/matanuska-glacier.jpg)
+
 The next day, they found themselves riding in the back seat of a beat-up Chevy van that was well past its prime featuring velour seats,
 doors held shut with rope, and windows cracked from years of abuse. This rickety old rig belonged to their guide known only as Ford. They
 bounced down the backcountry road, Ford driving the Chevy to their ultimate destination. This One and That One had a conversation with their
@@ -60,7 +62,7 @@ living things—slowly, imperceptibly, they shifted and sculpted the landscape o
 a kind of quiet power in the morning sun. Ford snapped the two of them out of their stupor with a hearty “You ready!?” to which they replied
 with a pair of glowing smiles.
 
-![matanuska](/assets/img/alaska/matanuska-glacier.jpg)
+![glacier wall](/assets/img/alaska/glacier-wall.jpg)
 
 Ford led them across the mirror-like pools of meltwater toward the glacier’s toe, where they stepped onto the ice. As they strapped on
 crampons and hefted their ice axes, they felt the weight of the moment. The temperature dropped sharply as they ventured further onto the
