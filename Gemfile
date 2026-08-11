@@ -1,4 +1,7 @@
 source "https://rubygems.org"
+
+# Must load before jekyll/liquid do - see the file itself for why.
+require_relative "lib/ruby_liquid_compat"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -33,3 +36,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
+
+# No longer bundled with Ruby's standard library as of 3.4; jekyll 3.9 and its
+# dependencies (pulled in by github-pages) still expect these to always be available.
+gem "csv"
+gem "bigdecimal"

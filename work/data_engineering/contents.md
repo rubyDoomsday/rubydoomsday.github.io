@@ -5,8 +5,6 @@ series_name: data_engineering
 cover_image: /assets/img/data-engineering.png
 ---
 
-Misfit on the trail is an anthology of short stories cataloging my thru-hike of the Appalachian Trail in 2022. The stories where a way to
-share my journey with others through the art of storytelling. Each story is losely connected and were published in real time with my hike. I
-hope this inspires you to take a hike.
+Data engineering is where I spend most of my working hours, and I come at it through a software engineer's lense. This collection gathers my articles and guides on data platforms, architecture and governance, covering the patterns and trade-offs behind building a composable modern data platform. I write these as much to sharpen my own thinking as to share it, so expect opinions alongside the how-to.
 
 ## Articles

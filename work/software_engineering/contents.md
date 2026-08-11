@@ -5,8 +5,8 @@ series_name: software_engineering
 cover_image: /assets/img/software-engineering.jpeg
 ---
 
-Misfit on the trail is an anthology of short stories cataloging my thru-hike of the Appalachian Trail in 2022. The stories where a way to
-share my journey with others through the art of storytelling. Each story is losely connected and were published in real time with my hike. I
-hope this inspires you to take a hike.
+I trained as a graphic designer before I ever wrote a line of code, and that background shapes how I think about software: simple, intuitive,
+elegant design isn't just a UI concern, it applies just as much to a system's architecture and to the code itself. This collection is a deep
+dive into that side of my work, from framework conventions to CI/CD, and the design decisions behind them.
 
 ## Articles
