@@ -4,7 +4,6 @@ title:  Is It a Metric? A Test for Data Teams
 subtitle: Data Engineering
 date:   2026-08-11
 tags:   data architecture metrics documentation
-draft:  true
 ---
 
 ## Background

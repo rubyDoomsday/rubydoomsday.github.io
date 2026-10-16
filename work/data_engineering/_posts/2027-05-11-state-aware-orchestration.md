@@ -4,7 +4,6 @@ title:  Skip the Rebuild, Not the Freshness, A State-Aware Orchestration Pattern
 subtitle: Data Engineering
 date:   2027-05-11
 tags:   data architecture orchestration design
-draft:  true
 ---
 
 ## Background

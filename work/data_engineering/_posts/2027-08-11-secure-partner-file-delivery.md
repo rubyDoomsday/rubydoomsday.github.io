@@ -4,7 +4,6 @@ title:  Stop Emailing CSVs, Designing a Secure Partner File Delivery Pipeline
 subtitle: Data Engineering
 date:   2027-08-11
 tags:   data architecture security design
-draft:  true
 ---
 
 ## Background

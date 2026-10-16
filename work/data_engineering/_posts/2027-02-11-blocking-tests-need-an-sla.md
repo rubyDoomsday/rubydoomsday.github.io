@@ -4,7 +4,6 @@ title:  From Warning to Blocking, Why Your Data Tests Need a Response SLA
 subtitle: Data Engineering
 date:   2027-02-11
 tags:   data quality ci/cd documentation
-draft:  true
 ---
 
 ## Background

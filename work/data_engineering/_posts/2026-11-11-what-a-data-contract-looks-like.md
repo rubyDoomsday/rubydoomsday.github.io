@@ -4,7 +4,6 @@ title:  What a Data Contract Actually Looks Like
 subtitle: Data Engineering
 date:   2026-11-11
 tags:   data architecture design documentation
-draft:  true
 ---
 
 ## Background
