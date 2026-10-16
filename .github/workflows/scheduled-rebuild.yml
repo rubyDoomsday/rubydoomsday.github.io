@@ -1,11 +1,11 @@
 # GitHub Pages only rebuilds on push, and Jekyll skips future-dated posts at
-# build time. Rebuilding once a day lets a post go live on (or within a day
-# of) its date without anyone having to push.
+# build time. Rebuilding monthly on the 11th, the day the series posts are
+# dated, lets each one go live on its date without anyone having to push.
 name: Scheduled Pages rebuild
 
 on:
   schedule:
-    - cron: "0 13 * * *" # daily, 13:00 UTC (6am PT)
+    - cron: "0 13 11 * *" # monthly on the 11th (post dates), 13:00 UTC (6am PT)
   workflow_dispatch:
 
 permissions:
